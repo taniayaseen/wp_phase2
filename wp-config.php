@@ -27,7 +27,7 @@ define( 'DB_USER', 'root' );
 vgdrdtyguh
 /** Database password */
 define( 'DB_PASSWORD', '' );
-
+bsbdshadyuyuehwjkdl,
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
 

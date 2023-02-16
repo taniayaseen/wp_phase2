@@ -24,7 +24,7 @@ define( 'DB_NAME', 'phase2-wp' );
 adfdghgjhkjlk
 /** Database username */
 define( 'DB_USER', 'root' );
-
+vgdrdtyguh
 /** Database password */
 define( 'DB_PASSWORD', '' );
 

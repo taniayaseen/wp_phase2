@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.box1{
+     margin-top: 3px;
+}
+ul.nav-list{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    column-gap: 40px;
+    justify-content: center;
+}
+li.nav-item a{
+    background-color: lightpink;
+    float: left;
+    font-size: 9px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    padding: 15px 30px;
+    display: flex;
+}
+li.nav-item a:hover{
+    background-color: green;
+    color: #fff;
+  }
